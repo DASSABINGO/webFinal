@@ -1,0 +1,26 @@
+
+<div>
+  <table class='table' >
+      <thead>
+          <tr >
+             
+              <th>Site</th>
+              <th>Home Team Odds</th>
+              <th>Away Team Odds</th>
+          
+          </tr>
+        </thead>
+          <tr *ngFor='let sites of sites'>
+  
+            <th>{{sites.companyName}}</th>
+            <th>{{sites.oddsTeam1}}</th>
+            <th>{{sites.oddsTeam2}}</th>
+            <th> <a href="#" class="btn btn-primary">Bet</a></th>
+           
+          </tr>
+      
+      <tbody>
+         
+      </tbody>
+  </table>
+</div>

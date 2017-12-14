@@ -1,0 +1,18 @@
+
+<h1 class="text-center">Sports News</h1>
+<div class="pre-scrollable">
+<div *ngFor='let article of News'>
+     <h1><a href={{article.url}}>{{article.title}}</a></h1>
+     <p class="lead"><i class="fa fa-user"></i> by {{article.author}}
+     </p>
+     <hr>
+     <p><i class="fa fa-calendar"></i> Posted on {{article.publishedAt}}</p>
+<p><i class="fa fa-tags"></i> Tags: <a href=""><span class="badge badge-info">BBC</span></a> <a href=""><span class="badge badge-info">Web</span></a> <a href=""><span class="badge badge-info">Sports</span></a> <a href=""><span class="badge badge-info">News</span></a></p>
+
+     <hr>
+   
+     <hr>
+     <p class="lead">{{article.description}}</p>
+     
+     <br/>
+    </div></div>

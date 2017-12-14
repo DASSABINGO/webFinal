@@ -1,0 +1,124 @@
+{"games" : [{
+  "team1": "Everton",
+  "team2": "Liverpool",
+  "startTime":"3:00pm",
+  "sites" : [ {
+    "companyName": "Ladbrokes",
+    "oddsTeam1": 1.1,
+    "oddsTeam2": 1.9
+  },
+    {
+      "companyName": "Paddy Power",
+      "oddsTeam1": 1.1,
+      "oddsTeam2": 1.9
+    },
+    {
+      "companyName": "Betfair",
+      "oddsTeam1": 1.3,
+      "oddsTeam2": 1.5
+    },
+    {
+      "companyName": "Bet365",
+      "oddsTeam1": 1.0,
+      "oddsTeam2": 2.0
+    },
+    {
+      "companyName": "Coral",
+      "oddsTeam1": 1.3,
+      "oddsTeam2": 1.5
+    }]
+  
+},
+{
+  "team1": "Arsenal",
+  "team2": "Tottenham",
+  "startTime":"5:00pm",
+  "sites" : [ {
+    "companyName": "Ladbrokes",
+    "oddsTeam1": 1.0,
+    "oddsTeam2": 2.5
+  },
+    {
+      "companyName": "Paddy Power",
+      "oddsTeam1": 0.9,
+      "oddsTeam2": 1.9
+    },
+    {
+      "companyName": "Betfair",
+      "oddsTeam1": 1.3,
+      "oddsTeam2": 1.5
+    },
+    {
+      "companyName": "Bet365",
+      "oddsTeam1": 0.8,
+      "oddsTeam2": 2.3
+    },
+    {
+      "companyName": "Coral",
+      "oddsTeam1": 1.3,
+      "oddsTeam2": 1.8
+    }]
+  
+},
+{
+  "team1": "Sligo Rovers",
+  "team2": "Finn Harps",
+  "startTime":"3:00pm",
+  "sites" : [ {
+    "companyName": "Ladbrokes",
+    "oddsTeam1": 1.1,
+    "oddsTeam2": 1.9
+  },
+    {
+      "companyName": "Paddy Power",
+      "oddsTeam1": 1.1,
+      "oddsTeam2": 1.9
+    },
+    {
+      "companyName": "Betfair",
+      "oddsTeam1": 1.3,
+      "oddsTeam2": 1.5
+    },
+    {
+      "companyName": "Bet365",
+      "oddsTeam1": 1.0,
+      "oddsTeam2": 2.0
+    },
+    {
+      "companyName": "Coral",
+      "oddsTeam1": 1.3,
+      "oddsTeam2": 1.5
+    }]
+  
+},
+{
+  "team1": "St Johns",
+  "team2": "Merville",
+  "startTime":"5:00pm",
+  "sites" : [ {
+    "companyName": "Ladbrokes",
+    "oddsTeam1": 1.0,
+    "oddsTeam2": 2.5
+  },
+    {
+      "companyName": "Paddy Power",
+      "oddsTeam1": 0.9,
+      "oddsTeam2": 1.9
+    },
+    {
+      "companyName": "Betfair",
+      "oddsTeam1": 1.3,
+      "oddsTeam2": 1.5
+    },
+    {
+      "companyName": "Bet365",
+      "oddsTeam1": 0.8,
+      "oddsTeam2": 2.3
+    },
+    {
+      "companyName": "Coral",
+      "oddsTeam1": 1.3,
+      "oddsTeam2": 1.8
+    }]
+  
+}]}

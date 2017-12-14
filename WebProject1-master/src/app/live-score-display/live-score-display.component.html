@@ -1,0 +1,14 @@
+<div  class="row" >
+  <h1 class="text-center">Livescores</h1>
+  <div class="col-sm-10" *ngFor='let game of matches'>
+    <div class="card">
+      <div class="card-block">
+        <h3 class="card-title">   {{game.home_name}} vs {{game.away_name}}</h3>
+        <p>{{game.league_name}}</p>
+        <p>Time - {{game.time}}'</p>
+        <p class="card-text"> {{game.score}} </p>
+       
+      </div>
+    </div>
+  </div>
+</div>
